@@ -22,4 +22,4 @@ This is a GUI-based Billing Software developed using Python and Tkinter.
    python billing_app.py
 
 ## 👨‍💻 Author
-Abhiram
+Gambhiram Raj
